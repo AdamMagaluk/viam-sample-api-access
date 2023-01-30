@@ -5,7 +5,7 @@ This example shows how to create a Location in Viam using the gRPC golang client
 ## Prerequisite Overview
 
 1. Install golang (https://go.dev/doc/install)
-2. Build Viam RDK CLI [See Below](#cli-install
+2. Build Viam RDK CLI
 3. Login to Viam on the CLI
 4. Find your organization ID
 
